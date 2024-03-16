@@ -157,9 +157,6 @@
   notSyncingTitle: "Not Syncing",
   notSyncingSubtitle: "You enabled data limits, and are on a limited connection. Not starting sync.",
   ok: "OK",
-  boardsTitle: "Boards",
-  subscribe: "Add board",
-  myBoards: "My Boards",
   close: "Close",
   edit: "Edit",
   cancelOptimize: "No need to optimize! You can already send {inputs.length} messages.",
@@ -183,7 +180,7 @@
   transactionHash: "Transaction hash",
   transactionHistory: "Transaction history",
   optimizationFailed: "Optimization failed..",
-  swapAPI: "Change API settings",
+  swapAPI: "API settings",
   swapAPIDescr: "Change API settings or disable API connection altogether",
   enableAPI: "Enable API connections",
   updatingAPIs: "Get available APIs..",
@@ -194,9 +191,14 @@
   swappingAPI: "Swapping API..",
   APISwapped: "API successfully swapped!",
   autoPickAPI: "Automatically choose an online API",
+  noOnlineAPIsWarning: "noOnlineAPIs",
   enableWebsocket: "Enable websocket connection",
   clearKnownMessages: "Empty known messages list",
-  clearKnownMessagesDescr: "This will resync all messages from the past 24h",
+  clearKnownMessagesDescr: "This will resync all messages from the past 24 hours.",
   alreadyOptimizing: "Already optimizing. Please wait until the ongoing optimization completes.",
-  deleteContactWarning: "Are you sure you want to delete this contact?"
+  deleteContactWarning: "Are you sure delete this contact?"
+  viewHuginOnGooglePlay:"View Hugin Messenger on GooglePlay"
+  viewHuginOnGooglePlaySubtitle:"Getting Hugin here or share the link to your friends."
+  viewHuginOnGithub:"View Hugin Messenger on Github"
+  viewHuginOnGithubSubtitle:"Geting the Beta Version here and View the source code then give feedback."
 }
